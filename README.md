@@ -1,1 +1,2 @@
 # TextToSpeech_JS
+This application is a simple project developed using HTML, CSS, and JavaScript. It’s a simple mini-project. This project helps to automatically convert text to speech. It’s magical, you can type your favorite words and listen with different accents.
